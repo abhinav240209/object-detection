@@ -1,0 +1,10 @@
+body {
+    background-image:url("https://thumbs.dreamstime.com/z/abstract-triangle-background-design-27179122.jpg");
+    background-size:700px 700px;
+}
+
+button {
+    border:2px solid black !important;
+    border-radius:25px !important;
+    box-shadow:15px 15px 15px rgb(255, 74, 68);
+}
